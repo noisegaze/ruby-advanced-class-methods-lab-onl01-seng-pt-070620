@@ -45,7 +45,7 @@ class Song
     song
   end   
   
-  
+  def self.create_
   
   
 
